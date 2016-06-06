@@ -1,0 +1,32 @@
+header, article, footer {
+    font-family: futura, sans-serif;
+}
+
+header {
+	background-color: #3DD445;
+	text-align: center;
+}
+
+article {
+	background-color: #3065c7;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+input {
+	margin: 20px;
+	font-size: 15px;
+	width: 25px;
+}
+
+button {
+	width: 100px;
+	margin: 25px auto;
+}
+
+footer {
+	background-color: #3DD445;
+	text-align: center;
+}
